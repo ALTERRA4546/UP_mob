@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 6\\Ticket 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E289B1-62F5-4824-8D2E-56CD0FE07769}|Ticket 6\\Ticket 6\\Ticket 6.csproj|c:\\users\\king night\\desktop\\\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0431\u0438\u043B\u0435\u0442 6\\ticket 6\\ticket 6\\ticket 6\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{68E289B1-62F5-4824-8D2E-56CD0FE07769}|Ticket 6\\Ticket 6\\Ticket 6.csproj|solutionrelative:ticket 6\\ticket 6\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E289B1-62F5-4824-8D2E-56CD0FE07769}|Ticket 6\\Ticket 6\\Ticket 6.csproj|c:\\users\\king night\\desktop\\\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0431\u0438\u043B\u0435\u0442 6\\ticket 6\\ticket 6\\ticket 6\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E289B1-62F5-4824-8D2E-56CD0FE07769}|Ticket 6\\Ticket 6\\Ticket 6.csproj|solutionrelative:ticket 6\\ticket 6\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 6\\Ticket 6\\Ticket 6\\Ticket 6\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket 6\\Ticket 6\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 6\\Ticket 6\\Ticket 6\\Ticket 6\\MainPage.xaml.cs",
+              "RelativeToolTip": "Ticket 6\\Ticket 6\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:03:04.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 6\\Ticket 6\\Ticket 6\\Ticket 6\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Ticket 6\\Ticket 6\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 6\\Ticket 6\\Ticket 6\\Ticket 6\\MainPage.xaml",
+              "RelativeToolTip": "Ticket 6\\Ticket 6\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-15T17:00:27.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
