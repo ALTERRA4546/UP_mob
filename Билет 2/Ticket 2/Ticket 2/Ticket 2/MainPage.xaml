@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ticket_2.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <Entry x:Name="Surname" WidthRequest="250"/>
+            <Entry x:Name="Name" WidthRequest="250"/>
+            <Picker x:Name="Sex" WidthRequest="250" SelectedIndex="0">
+                <Picker.Items>
+                    <x:String>М</x:String>
+                    <x:String>Ж</x:String>
+                </Picker.Items>
+            </Picker>
+            <Entry x:Name="Group" WidthRequest="250"/>
+            <Entry x:Name="Cource" WidthRequest="250"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="AddStudent" Text="AddStudent" Clicked="AddStudent_Clicked"/>
+            <Button x:Name="ShowStudent" Text="ShowStudent" Clicked="ShowStudent_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

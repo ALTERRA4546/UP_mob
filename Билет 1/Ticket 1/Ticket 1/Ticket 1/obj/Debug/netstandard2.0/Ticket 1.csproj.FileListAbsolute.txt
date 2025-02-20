@@ -1,0 +1,16 @@
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\bin\Debug\netstandard2.0\Ticket 1.deps.json
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\bin\Debug\netstandard2.0\Ticket 1.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\bin\Debug\netstandard2.0\ref\Ticket 1.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\bin\Debug\netstandard2.0\Ticket 1.pdb
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\refint\Ticket 1.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\Ticket 1.pdb
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 1\Ticket 1\Ticket 1\Ticket 1\obj\Debug\netstandard2.0\ListViewPage1.xaml.g.cs

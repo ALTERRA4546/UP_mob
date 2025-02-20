@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ticket_2.StudentList">
+    
+  <ListView x:Name="MyListView"
+            CachingStrategy="RecycleElement">
+
+
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" HeightRequest="250">
+                        <Label Text="{Binding Id}" Style="{DynamicResource ListItemTextStyle}" />
+                        <Label Text="{Binding Surname}" Style="{DynamicResource ListItemDetailTextStyle}"/>
+                        <Label Text="{Binding Name}" Style="{DynamicResource ListItemDetailTextStyle}"/>
+                        <Label Text="{Binding Sex}" Style="{DynamicResource ListItemDetailTextStyle}"/>
+                        <Label Text="{Binding Group}" Style="{DynamicResource ListItemDetailTextStyle}"/>
+                        <Label Text="{Binding Cource}" Style="{DynamicResource ListItemDetailTextStyle}"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
