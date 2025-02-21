@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ticket_7_Xamarin.MainPage">
+
+    <StackLayout>
+        <Picker x:Name="pizzaPicker">
+            <Picker.Items>
+                <x:String>Ананасовая</x:String>
+                <x:String>Чили</x:String>
+                <x:String>Пеппирони</x:String>
+            </Picker.Items>
+        </Picker>
+        <StackLayout Orientation="Horizontal">
+            <Slider x:Name="pizzaCount" Minimum="0" Maximum="100"  WidthRequest="250" ValueChanged="pizzaCount_ValueChanged"/>
+            <Label x:Name="pizzaCountLabel"/>
+        </StackLayout>
+        <Button x:Name="pizzaOrder" Text="Order" Clicked="pizzaOrder_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

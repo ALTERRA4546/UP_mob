@@ -1,0 +1,30 @@
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\Ticket 18 Xamarin.deps.json
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\Ticket 18 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\ref\Ticket 18 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\Ticket 18 Xamarin.pdb
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\refint\Ticket 18 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 18\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.pdb
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\Ticket 18 Xamarin.deps.json
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\Ticket 18 Xamarin.dll
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\ref\Ticket 18 Xamarin.dll
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\bin\Debug\netstandard2.0\Ticket 18 Xamarin.pdb
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.csproj.AssemblyReference.cache
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.AssemblyInfoInputs.cache
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.AssemblyInfo.cs
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.csproj.CoreCompileInputs.cache
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.dll
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\refint\Ticket 18 Xamarin.dll
+C:\Ticket 18 Xamarin\Ticket 18 Xamarin\Ticket 18 Xamarin\obj\Debug\netstandard2.0\Ticket 18 Xamarin.pdb

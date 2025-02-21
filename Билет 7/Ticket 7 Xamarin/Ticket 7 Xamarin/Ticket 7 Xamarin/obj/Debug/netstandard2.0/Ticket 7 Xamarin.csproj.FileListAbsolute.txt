@@ -1,0 +1,15 @@
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\bin\Debug\netstandard2.0\Ticket 7 Xamarin.deps.json
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\bin\Debug\netstandard2.0\Ticket 7 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\bin\Debug\netstandard2.0\ref\Ticket 7 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\bin\Debug\netstandard2.0\Ticket 7 Xamarin.pdb
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\refint\Ticket 7 Xamarin.dll
+C:\Users\King Night\Desktop\Мобильная разработка\Билет 7\Ticket 7 Xamarin\Ticket 7 Xamarin\Ticket 7 Xamarin\obj\Debug\netstandard2.0\Ticket 7 Xamarin.pdb

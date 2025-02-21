@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ticket_21_Xamarin.MainPage"
+             x:Name="MainBackground">
+
+    <Grid x:Name="BackMain" VerticalOptions="FillAndExpand">
+        <ListView x:Name="myList" HeightRequest="500" ItemSelected="ListView_ItemSelected" BackgroundColor="White" VerticalOptions="Start" HorizontalOptions="CenterAndExpand">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Image BackgroundColor="{Binding Color}" WidthRequest="50" HeightRequest="50"/>
+                            <Label Text="{Binding ColorName}"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,30 @@
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\Ticket 10 Xamarin.deps.json
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\ref\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\Ticket 10 Xamarin.pdb
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\refint\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.pdb
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\MVVM\View\MarsView.xaml.g.cs
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\Ticket 10 Xamarin.deps.json
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\ref\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\bin\Debug\netstandard2.0\Ticket 10 Xamarin.pdb
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\refint\Ticket 10 Xamarin.dll
+C:\Users\King Night\Desktop\Ticket 10 Xamarin\Ticket 10 Xamarin\Ticket 10 Xamarin\obj\Debug\netstandard2.0\Ticket 10 Xamarin.pdb

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 7\\Ticket 7 Xamarin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9748A0A7-2C67-481C-9F6E-380CB57E83BF}|Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin.csproj|c:\\users\\king night\\desktop\\\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0431\u0438\u043B\u0435\u0442 7\\ticket 7 xamarin\\ticket 7 xamarin\\ticket 7 xamarin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9748A0A7-2C67-481C-9F6E-380CB57E83BF}|Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin.csproj|solutionrelative:ticket 7 xamarin\\ticket 7 xamarin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9748A0A7-2C67-481C-9F6E-380CB57E83BF}|Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin.csproj|c:\\users\\king night\\desktop\\\u043C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0431\u0438\u043B\u0435\u0442 7\\ticket 7 xamarin\\ticket 7 xamarin\\ticket 7 xamarin\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9748A0A7-2C67-481C-9F6E-380CB57E83BF}|Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin.csproj|solutionrelative:ticket 7 xamarin\\ticket 7 xamarin\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 7\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 7\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml.cs",
+              "RelativeToolTip": "Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:11:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 7\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041C\u043E\u0431\u0438\u043B\u044C\u043D\u0430\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u0411\u0438\u043B\u0435\u0442 7\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml",
+              "RelativeToolTip": "Ticket 7 Xamarin\\Ticket 7 Xamarin\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-15T17:11:50.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

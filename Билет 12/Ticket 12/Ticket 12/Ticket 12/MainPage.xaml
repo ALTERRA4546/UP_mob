@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ticket_12.MainPage">
+
+    <StackLayout>
+        <Picker x:Name="servicePicker" Title="Выберите услугу">
+            <Picker.Items>
+                <x:String>Замена масла</x:String>
+                <x:String>Ремонт подвески</x:String>
+                <x:String>Замена АКПП</x:String>
+                <x:String>Диагностика</x:String>
+            </Picker.Items>
+        </Picker>
+        <StackLayout Orientation="Horizontal">
+            <Slider x:Name="ratingSlider" Minimum="0" Maximum="5" Value="3" WidthRequest="250" ValueChanged="ratingSlider_ValueChanged"/>
+            <Label x:Name="ratingCount"/>
+        </StackLayout>
+        <Button x:Name="submitRating" Text="Отправить оценку" Clicked="submitRating_Clicked"/>
+        <Label x:Name="result" Text=""/>
+    </StackLayout>
+
+</ContentPage>

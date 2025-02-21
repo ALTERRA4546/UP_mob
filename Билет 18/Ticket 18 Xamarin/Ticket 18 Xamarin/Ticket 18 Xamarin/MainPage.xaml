@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ticket_18_Xamarin.MainPage">
+
+    <StackLayout>
+        <Label Text="Каталог"/>
+        <ListView HasUnevenRows="True" x:Name="myList">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <StackLayout HorizontalOptions="Start" Orientation="Horizontal">
+                                <Image Source="{Binding Image}" WidthRequest="50" HeightRequest="50"/>
+                                <StackLayout>
+                                    <Label Text="{Binding Title}" FontSize="16" FontAttributes="Bold"/>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="{Binding Price}"/>
+                                        <Label Text="Р"/>
+                                    </StackLayout>
+                                    <Label Text="Подробнее" TextColor="Green"/>
+                                </StackLayout>
+                            </StackLayout>
+                            <StackLayout Grid.Column="1" Orientation="Horizontal" HorizontalOptions="End">
+                                <Button Text="-" Clicked="OnDecrementClicked" CommandParameter="{Binding .}" WidthRequest="50"/>
+                                <Label Text="{Binding Count}" VerticalOptions="Center" Padding="5,0" />
+                                <Button Text="+" Clicked="OnIncrementClicked" CommandParameter="{Binding .}" WidthRequest="50"/>
+                            </StackLayout>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
